@@ -1,2 +1,4 @@
-# connote
+# Connote 
 Minimal associative selection
+
+(under construction)
