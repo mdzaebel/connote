@@ -2,7 +2,7 @@
 Minimal associative selection *(under construction)*
 
 ## What is *Connote*?
-Web-based knowledge modelling, using terms, relations and links (term tuples). It lets you structure important information via multi-dimensional links and:
+Web-based knowledge modeling, using words, relations and links (sentences). It lets you structure important information via multi-dimensional links and:
 * **explore** 
   * knowledge by clicking on relations (linked terms)
   * typing with autocompletion
